@@ -6,5 +6,5 @@ test {
     >>_ An item that is not done and is marked
     _ An item that is plain ole not done
     # A comment
-    A plain ole, indented line
+    A plain ole indented line
 }
