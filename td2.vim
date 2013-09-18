@@ -14,6 +14,7 @@ syn case ignore
 syn region td2indentNotDone start=/^\s*_/ end=/\n/
 syn region td2indentDone start=/^\s*x/ end=/\n/
 syn region td2Bookmark start=/^\s*>>/ end=/\n/
+syn region td2Bookmark start=/^\s*p1/ end=/\n/
 syn region td2Mark start=/-- mark --/ end=/\n/
 
 hi link td2Comment   Comment
